@@ -1,16 +1,22 @@
-### Hi there 👋
+Hola!, Mi nombre es Caleb Moran
+tambien conocido como jhoshmc en Github
 
-<!--
-**jhoshmc/jhoshmc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¿QUIEN SOY?
+Soy un programador Fullstack
 
-Here are some ideas to get you started:
+¿Que hago?
+Actual mente me dedico a realizar proyectos me permitan avanzar en mi formación como programador
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+¿Que tecnologias uso?
+El Bootcamp de Henrry me a permitido adquirir el conocimiento y experiencia con las siguientes tecnologias 
+.JavaScript
+.React.js
+.Node.js
+.Express.js
+.PostgreSQL
+.Sequelize
+.Git
+.HTML
+.CSS
+
+
