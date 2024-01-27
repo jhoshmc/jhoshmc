@@ -22,4 +22,4 @@ El Bootcamp de **Henrry** me a permitido adquirir el conocimiento y experiencia 
 
 puedes encontrar mis publicaciones en [Linkedin](https://www.linkedin.com/in/josias-moran-37b320275/)
 
-![gatoProgramando](img/Gato-programando.gif)
+![gatoProgramando](img/Gato-programando.gif) o contactarte por gmail: jhoshmc201@gmail.com
